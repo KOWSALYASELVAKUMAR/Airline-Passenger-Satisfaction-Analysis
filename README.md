@@ -34,9 +34,13 @@ This project analyzes airline passenger satisfaction using Microsoft Excel. The 
 - Loyal customers show higher satisfaction than disloyal customers.
 - Cabin Service has the highest average service rating.
 
-## Project Files
-- Cleaned Excel Dataset
-- Airline Passenger Satisfaction Dashboard
+## Dashboard Preview
 
+![Airline Passenger Satisfaction Dashboard](Airline_Dashboard.png.png)
+
+## Project Files
+- passenger_project.xlsx
+- cleaned_dataset.xlsx
+- Airline_Dashboard.png.png
 ## Conclusion
 This project helps identify passenger satisfaction patterns and service improvement opportunities through Excel-based data analysis and visualization.
